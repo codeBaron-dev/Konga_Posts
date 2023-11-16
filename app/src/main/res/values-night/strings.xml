@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nicholas_anyanwu">Nicholas Anyanwu</string>
+    <string name="to_submit_your_project_please_zip">To submit your project, please zip.</string>
+    <string name="to_submit_your_project_please_zip_your_project_and_email_it_back_to_your_recruiting_coordinator_aclean_way_to_do_this_is_to_download_the_zip_directly_from_your_private_github_account">To submit your project, please zip your project and email it back to your recruiting coordinator. Aclean way to do this is to download the zip directly from your private Github account.</string>
+    <string name="posts">Posts</string>
+</resources>
