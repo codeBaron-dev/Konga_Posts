@@ -45,7 +45,7 @@ class KoinApp : Application() {
      *
      * @return List of Koin modules.
      */
-    private fun allModules(): List<Module> {
+    fun allModules(): List<Module> {
         // Network module providing Retrofit instance for API calls.
         val networkModule = module {
             single {

@@ -60,4 +60,8 @@ dependencies {
     implementation("de.hdodenhof:circleimageview:3.0.1")
 
     implementation("com.github.bumptech.glide:glide:4.11.0")
+
+    testImplementation("org.mockito:mockito-core:3.11.2")
+    testImplementation("io.mockk:mockk:1.12.0")
+    testImplementation("androidx.arch.core:core-testing:2.1.0")
 }
